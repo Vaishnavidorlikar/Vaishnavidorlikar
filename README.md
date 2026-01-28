@@ -19,9 +19,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vaishnavidorlikar&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+<-- ![](https://github-contributor-stats.vercel.app/api?username=Vaishnavidorlikar&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaishnavidorlikar&icon=2&color=2)](https://visitcount.itsvg.in)
+<-- [![](https://visitcount.itsvg.in/api?id=Vaishnavidorlikar&icon=2&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
