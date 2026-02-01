@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vaishnavi Dorlikar<br><br>💻 **I'm currently working on:**  <br>- Building cloud-native data workflows and AI/ML pipelines on **GCP**  <br>- Improving CI/CD processes and DevOps automation for enterprise systems  <br><br>🤝 **I'm looking to collaborate on:**  <br>- Data engineering projects, ML/AI experiments, and cloud automation initiatives  <br>- Open-source projects that solve real-world business problems    # <br><br>❓ **Ask me about:**  <br>- Python, SQL, BigQuery, Cloud Composer, Cloud Run, DevOps  <br>- AI/ML workflows and data analysis  <br><br>🎉 **Fun fact:**  <br>- 2× **Google Cloud Platform Certified**  <br>- I love turning complex business requirements into elegant, data-driven solutions 🚀<br>
-
+👋 Hi, I’m Vaishnavi Dorlikar
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishh489) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavidorlikar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavidorlikar061@gmail.com) 
