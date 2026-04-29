@@ -63,13 +63,8 @@ Multi-modal AI assistant with LLM orchestration and workflow automation
 ## 📫 Contact
 
 * LinkedIn: https://linkedin.com/in/vaishnavidorlikar
+* ![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavidorlikar&color=blue)
 * Email: [dorlikarvaishnavi1@gmail.com](mailto:dorlikarvaishnavi1@gmail.com)
 * Portfolio: https://dorlikarvaishnavi.notion.site/Vaishnavi-Dorlikar-Data-AI-Consultant-Portfolio-3505fa47f28980cf8e92ea364bf33a80?source=copy_link
+* ![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavidorlikar&color=blue)
 
---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
