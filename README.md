@@ -21,7 +21,7 @@ Building production-grade data pipelines, real-time systems, and AI automation p
 
 Enterprise-grade data validation, audit tracking, and quality monitoring system
 
-* Automated validation rules engine (Great Expectations)
+* Custom data quality framework with configurable validation rules (schema, null, range), audit trails, lineage tracking, and quality metrics
 * Historical quality tracking & anomaly detection
 * Audit trail for compliance
   👉 [View Repo](https://github.com/Vaishnavidorlikar/data-quality-governance-pipeline)
