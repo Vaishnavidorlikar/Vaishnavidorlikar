@@ -19,11 +19,11 @@ Building production-grade data pipelines, real-time systems, and AI automation p
 
 ### 🔹 Data Quality Governance Pipeline
 
-Enterprise-grade data validation, audit tracking, and quality monitoring system
+Enterprise-grade data validation, audit tracking, and quality monitoring system 
 
-* Custom data quality framework with configurable validation rules (schema, null, range), audit trails, lineage tracking, and quality metrics
-* Historical quality tracking & anomaly detection
-* Audit trail for compliance
+* Custom data quality framework with configurable validation rules (schema, null, range)  
+* Audit trails, lineage tracking, and quality metrics  
+* Historical quality tracking & anomaly detection  
   👉 [View Repo](https://github.com/Vaishnavidorlikar/data-quality-governance-pipeline)
 
 ---
